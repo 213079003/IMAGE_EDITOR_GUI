@@ -32,7 +32,6 @@ This application is an image editor tool that implements some basic image proces
  ## Instructions to run
 ```
  python main.py 
-
 ```
 
 
